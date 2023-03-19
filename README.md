@@ -1,7 +1,7 @@
 ## Hi there I'm Felipe P Zelent 👋
 
 <div>
-  <a href="https://github.com/FelipeZelent">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeZelent&theme=midnight-purple&show_icons=true&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeZelent&layout=compact&theme=midnight-purple">
 </div>
