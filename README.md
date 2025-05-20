@@ -13,11 +13,7 @@
 - Atividades acadêmicas com foco em **algoritmos, grafos e ciência de dados**
 - Scripts úteis para **ambientes Linux e automações básicas**
 
-
-### ⚙️ Tecnologias e Ferramentas:
-- **Linguagens:** Java, Kotlin, Python, Swift, Dart
-- **Frameworks:** Spring Boot, Angular, React, SwiftUI, Flutter
-- **Ferramentas:** Git, Docker, Firebase, Trello, Postman
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeZelent&layout=compact&theme=dracula)
 
 ---
 
