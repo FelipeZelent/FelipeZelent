@@ -22,5 +22,5 @@
 ---
 
 > Estou sempre buscando aprender algo novo e construir soluções que façam sentido.  
-Se quiser trocar uma ideia ou colaborar, me chama por aqui ou no [LinkedIn](https://www.linkedin.com/in/felipezelent/).
+Se quiser trocar uma ideia ou colaborar, me chama por aqui ou no [LinkedIn](https://www.linkedin.com/in/felipepzelent/).
 
