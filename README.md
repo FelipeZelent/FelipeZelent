@@ -12,6 +12,17 @@ Currently studying **Artificial Intelligence** and **Cloud Computing**
   <img src="https://images.steamusercontent.com/ugc/84842226192835063/A6B11B6646FB32244C25BD25801DA48E933DE4EE/?imw=500&imh=500&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" 
        alt="Black hole" width="360">
 </p>
+<p>
+  
 <p align="center">
+  <a href="https://linkedin.com/in/felipepzelent">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
+  </a>
+  <a href="mailto:felipe.pzelent@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Gmail">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=FelipeZelent&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
+
+
+
