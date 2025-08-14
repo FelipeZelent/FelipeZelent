@@ -1,6 +1,7 @@
 ## Hi, I'm Felipe 👋
 
-Information Systems student.
+Information Systems student, with focus on **Backend Development** and **Data**.  
+Currently studying **Artificial Intelligence** and **Cloud Computing**
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,py,django,dart,flutter,firebase,azure,aws,gcp,docker,kubernetes,postgres,git,figma,postman,linux,bash,react,mongodb,androidstudio&theme=dark&perline=7)](https://skillicons.dev)
