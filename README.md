@@ -15,7 +15,7 @@ Currently studying **Artificial Intelligence** and **Cloud Computing**
 <p>
   
 <p align="center">
-  <a href="https://linkedin.com/in/felipepzelent">
+  <a href="https://www.linkedin.com/in/felipepzelent/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
   </a>
   <a href="mailto:felipe.pzelent@gmail.com">
