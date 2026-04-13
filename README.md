@@ -1,28 +1,30 @@
 ## Hi, I'm Felipe 👋
 
-Information Systems student, with focus on **Backend Development** and **Data**.  
-Currently studying **Artificial Intelligence** and **Cloud Computing**
+Information Systems student.
 
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,py,django,dart,flutter,firebase,azure,aws,gcp,docker,kubernetes,postgres,git,figma,postman,linux,bash,react,mongodb,androidstudio&theme=dark&perline=7)](https://skillicons.dev)
+Backend Developer focused on Java + Spring Boot and data-driven systems.  
 
----
+I have hands-on experience transforming messy data into structured systems and automating business processes.
 
+📚 Currently studying: 
+ - AI fundamentals
+ - Cloud Computing, and backend/data systems.
+
+### Tech Stack
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/84842226192835063/A6B11B6646FB32244C25BD25801DA48E933DE4EE/?imw=500&imh=500&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" 
-       alt="Black hole" width="360">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,py,docker,postgres,git,linux" />
+  </a>
 </p>
-<p>
-  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/felipepzelent/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://felipezelent.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-181717?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
   <a href="mailto:felipe.pzelent@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FelipeZelent&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-
-
